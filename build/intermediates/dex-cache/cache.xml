@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="G:\AndroidProjects\FinalProject\app\build\intermediates\pre-dexed\release\support-annotations-23.0.0-d70a18652ae1a6590661f8b8d2e410998228ea35.jar" />
+    </item>
+    <item
+        jar="G:\AndroidProjects\FinalProject\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.6.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1c1afa0ab2a8197a5da1b36c4167a9e479cb74d9">
+        <dex dex="G:\AndroidProjects\FinalProject\app\build\intermediates\pre-dexed\release\classes-7936ab03244717eb85b6d18887cfa6d9067b5529.jar" />
+    </item>
+    <item
+        jar="G:\AndroidProjects\FinalProject\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="G:\AndroidProjects\FinalProject\app\build\intermediates\pre-dexed\release\classes-9bb958fa6028175ce7f06fe044af4df63217d3c0.jar" />
+    </item>
+    <item
+        jar="G:\AndroidProjects\FinalProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="G:\AndroidProjects\FinalProject\app\build\intermediates\pre-dexed\release\internal_impl-23.0.0-9d84750afeb0fb6483d1969e5eeb31534b89171a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vignesh\.gradle\caches\modules-2\files-2.1\com.parse\parsetwitterutils-android\1.10.3\8d945a26edb86e14260343e2a0dbe2ddd8937b73\parsetwitterutils-android-1.10.3.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8d945a26edb86e14260343e2a0dbe2ddd8937b73">
+        <dex dex="G:\AndroidProjects\FinalProject\app\build\intermediates\pre-dexed\release\parsetwitterutils-android-1.10.3-16d7c6762e50f564cd5e7cb976ef9541e4686cdf.jar" />
+    </item>
+    <item
+        jar="G:\AndroidProjects\FinalProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="G:\AndroidProjects\FinalProject\app\build\intermediates\pre-dexed\release\classes-c4e73811c9ff45d35c751c8f0ed8cbbdab5b689e.jar" />
+    </item>
+    <item
+        jar="G:\AndroidProjects\FinalProject\app\build\intermediates\exploded-aar\com.parse\parsefacebookutils-v4-android\1.10.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="771e1739a38be7573c55458d16ca2d2f9f546cf7">
+        <dex dex="G:\AndroidProjects\FinalProject\app\build\intermediates\pre-dexed\release\classes-1cfc73bf78881efe3b8048434db2f7c9847d97cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vignesh\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.11.0\6592129dec2caa8791d322c7e4b6b7a30e8eadae\parse-android-1.11.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6592129dec2caa8791d322c7e4b6b7a30e8eadae">
+        <dex dex="G:\AndroidProjects\FinalProject\app\build\intermediates\pre-dexed\release\parse-android-1.11.0-529adc2dd36f398a2579104a0a3a9d75aef927a8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vignesh\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.3.0\8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c\bolts-tasks-1.3.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c">
+        <dex dex="G:\AndroidProjects\FinalProject\app\build\intermediates\pre-dexed\release\bolts-tasks-1.3.0-5a8e410dd3fcd60b88ecdf479854f89729b15105.jar" />
+    </item>
+    <item
+        jar="G:\AndroidProjects\FinalProject\app\libs\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="G:\AndroidProjects\FinalProject\app\build\intermediates\pre-dexed\release\picasso-2.5.2-35b0403b039f519ef6ed5c0316195452212d5284.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vignesh\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.3.0\bc535105332645408ef5f1380215cc954b842178\bolts-applinks-1.3.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="bc535105332645408ef5f1380215cc954b842178">
+        <dex dex="G:\AndroidProjects\FinalProject\app\build\intermediates\pre-dexed\release\bolts-applinks-1.3.0-06b533bb0fd6eed26937df3987b0a0836e5b6b91.jar" />
+    </item>
+
+</items>
